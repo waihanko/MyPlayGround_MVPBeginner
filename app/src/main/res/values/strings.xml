@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPlayGround</string>
+    <string name="unlock">Unlock</string>
+    <string name="message">Message</string>
+    <string name="go_forward">Go Forward</string>
+    <string name="turn_on_light">Turn On Light</string>
+</resources>
